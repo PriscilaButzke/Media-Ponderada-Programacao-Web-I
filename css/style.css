@@ -34,7 +34,7 @@ input, label{
     text-align: center;
  
 }   
-#b1{
+#b1, #b2{
     width: 150px;
     height: 60px;
     margin: 0 auto;
